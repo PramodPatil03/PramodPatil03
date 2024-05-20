@@ -3,5 +3,5 @@
 - web development, Android development, Java, JavaScript
 - 🌱 I have recently completed my computer science and engineering
 - 📫 How to reach me-
-- instagram: https://instagram.com/pramod_patil__24?igshid=OGQ5ZDc2ODk2ZA==
+- instagram: https://instagram.com/_pramodpatil__24?igshid=OGQ5ZDc2ODk2ZA==
 - Linkedin: https://www.linkedin.com/in/pramod-patil-768706282/
