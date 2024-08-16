@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PramodPatil03
+ # Pramod Patil
 - 👀 Frontend developer
 - web development, Android development, Java, JavaScript
 - 🌱 I have recently completed my computer science and engineering
