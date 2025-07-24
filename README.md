@@ -1,7 +1,7 @@
  # Pramod Patil
-- 👀 Frontend developer
-- web development, Android development, Java, JavaScript
-- 🌱 I have recently completed my computer science and engineering
+- 👀 Java Full Stack developer
+- web development, React, Angular, Java, Spring Boot and Microservices
+- 🌱 BE Computer Science and Engineering - 2024
 - 📫 How to reach me-
 - instagram: https://instagram.com/_pramodpatil__24/
 - Linkedin: https://www.linkedin.com/in/pramod-patil-768706282/
